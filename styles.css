@@ -1,0 +1,14 @@
+.btn1 {
+    color: black;
+    display: block;
+}
+
+#rowId {
+    display: inline-flex;
+}
+
+.square {
+    text-align: center;
+    padding: 50px;
+}
+
